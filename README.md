@@ -4,6 +4,8 @@ I'm a recent Computer Science graduate with a passion for designing intelligent 
 
 This GitHub space is a collection of projects that reflect my journey — from experimenting with AI and LLMs to building robust backend systems and clean, functional UIs.
 
+## 🌱Some of My Recent Works
+
 ## 🧰 Technologies & Tools
 
  

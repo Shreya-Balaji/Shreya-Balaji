@@ -8,15 +8,12 @@ After graduating, I worked full-time at Barclays, contributing to software devel
 
 I am now back in academia and am excited to deepen my knowledge and contribute to transforming ideas into impactful, functional products. I enjoy solving problems, exploring different approaches, and taking on challenging assignments that push me to learn and grow technically.
 
-If you think my background would be a good fit for any opportunities, please reach out at shreya.balaji@tudelft.nl and I'd love to connect!
-
-
 TL;DR
 MSc Computer Science student at TU Delft, specialising in Computer Graphics and Software Engineering, with industry experience in software development and infrastructure at Barclays. Strong foundation in algorithms, software engineering, and system development, with a passion for tackling complex technical challenges and building impactful products.
 
 ## 📫 Get in Touch
 
-I'm always excited to collaborate or discuss interesting ideas.  
-Connect with me on [LinkedIn]([ttps://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/shreya-balaji-56349a221/)) or drop me an email at `shre2305.ya@gmail.com`.
+I'm always excited to collaborate or discuss interesting ideas.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/shreya-balaji-56349a221/) or drop me an email at [S.Balaji-2@student.tudelft.nl](mailto\:S.Balaji-2@student.tudelft.nl).
 
 Thanks for stopping by!
